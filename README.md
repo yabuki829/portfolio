@@ -27,5 +27,5 @@
 
 
 # 昔作ったやつ
-# [みんなでランダムチャット]（https://github.com/yabuki829/mintya）
+# [みんなでランダムチャット](https://github.com/yabuki829/mintya)
 # [瞬間日記](https://github.com/yabuki829/MomentDiary)
