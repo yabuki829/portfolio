@@ -1,3 +1,6 @@
+
+# [プロフィール](https://qiita.com/sdi/private/d7702a20e163f31beef9)
+
 # 作った作品の一部 
 
 ## [Netflixの見た目真似てみた](https://github.com/yabuki829/netflix-clone)
