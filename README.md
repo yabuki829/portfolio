@@ -31,9 +31,3 @@
 ## 投票アプリVote
 
 <img width="1440" alt="スクリーンショット 2022-10-20 20 41 56" src="https://user-images.githubusercontent.com/67153136/196939768-eb4a7cea-3550-4627-9900-9aae56bbe74a.png">
-
-
-
-# 昔作ったやつ
-# [みんなでランダムチャット](https://github.com/yabuki829/mintya)
-# [瞬間日記](https://github.com/yabuki829/MomentDiary)
